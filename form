@@ -1,0 +1,17 @@
+<div class="inner-menu">
+<ul class="container">
+<li class="parent-section"><a title="Бизнес" href="/ru/eventos-empresas/">Бизнес</a></li>
+<li><a title="Конференц-залы" href="/ru/eventos-empresas/salas-reuniones-eventos/">Конференц-залы</a></li>
+<li><a title="Услуги для мероприятий" href="/ru/eventos-empresas/servicios-eventos-tarragona/">Услуги для мероприятий</a></li>
+<li class="active"><a title="Контакт" href="/ru/eventos-empresas/formulario-reuniones/">Контакт</a></li>
+</ul>
+</div>
+
+
+<div class="inner-content">
+  <h2>Форма для зхаполнения</h2>
+  <p>Вы хотите с нами связаться?</p>
+[contact-form-7 id="4090" title="Bodas"]
+
+
+</div>

@@ -1,0 +1,18 @@
+<div class="inner-menu">
+<ul class="container">
+<li class="parent-section"><a title="Свадьбы" href="/ru/disfruta/">Свадьбы</a></li>
+<li><a title="Залы" href="/ru/bodas/salones-bodas-tarragona/">Залы</a></li>
+<li><a title="Услуги" href="/ru/bodas/servicios-boda/">Услуги</a></li>
+<li class="active"><a title="Контакт" href="/ru/bodas/contacto-boda/">Контакт</a></li>
+</ul>
+</div>
+
+
+<div class="inner-content">
+  <h2>Форма для зхаполнения</h2>
+  <h3 class="tagline">Вы хотите с нами связаться?</h3>
+
+[contact-form-7 id="4090" title="Свадьбы"]
+
+
+</div>

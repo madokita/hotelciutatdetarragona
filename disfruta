@@ -1,0 +1,31 @@
+<div class="inner-content four-elements-menu">
+<h2 class="hidden-menu">Воспользуйтесь нашими услугами.</h2>
+<p class="hidden-menu">Отель SB Ciutat de Tarragona предлагает эксклюзивные услуги и оборудование  для всех видов потребностей клиентов. Воспользуйтесь лучшим сервисом в Таррагоне!</p>
+<p class="hidden-menu">Важно: при бронировании на нашем официальном сайте бесплатная парковка (при наличии мест) </p>
+
+<a href="/ru/disfruta/servicios/" title="Услуги" class="other-secc">
+<h3>Услуги</h3>
+<img alt="Услуги" src="/files/ciutat-tarragona-disfruta-servicios.jpg" />
+<p>Широкий выбор услуг для вас</p>
+</a>
+
+<a href="/ru/disfruta/restaurante-mare-nostrum/" title="Ресторан  Mare Nostrum" class="other-secc">
+<h3 class="title_small-2">Ресторан  Mare Nostrum</h3>
+<img alt="Ресторан  Mare Nostrum" src="/files/ciutat-tarragona-disfruta-restaurante.jpg" />
+<p>Средиземная кухня, которая удивит любого гурмана</p>
+</a>
+
+
+<a href="/ru/disfruta/cafeteria-punt-trobada/" title="Кафе Punt de Trobada" class="other-secc">
+<h3 class="title_small-2">Кафе Punt de Trobada</h3>
+<img alt="Кафе Punt de Trobada" src="/files/ciutat-tarragona-disfruta-cafeteria.jpg" />
+<p>Место встречи в коммерческом и деловом центре в Таррагоне</p>
+</a>
+
+<a href="/ru/disfruta/room-service/" title="Услуги в номер" class="other-secc">
+<h3>Услуги в номер</h3>
+<img alt="Услуги в номер" src="/files/ciutat-tarragona-room-service.jpg" />
+<p>С 10.30ч. до 23ч</p>
+</a>
+
+</div>

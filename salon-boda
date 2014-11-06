@@ -1,0 +1,92 @@
+<div class="inner-menu">
+<ul class="container">
+<li class="parent-section"><a title="Boda" href="/disfruta/">Boda</a></li>
+<li class="active"><a title="Salones" href="/bodas/salones-bodas-tarragona/">Salones</a></li>
+<li><a title="Servicios" href="/bodas/servicios-boda/">Servicios</a></li>
+<li><a title="Contacto" href="/bodas/contacto-boda/">Contacto</a></li>
+</ul>
+</div>
+
+
+<div class="inner-content row-fluid">
+  <h2>Salones de boda</h2>
+  <p>El Hotel SB Ciutat de Tarragona le ofrece el espacio ideal para su boda: salones de gran capacidad con servicio propio de restauración, luz natural y atención personalizada. Además, le ayudamos a preparar todos los detalles desde el primer contacto hasta el día de su ceremonia.</p>
+  <p>Destacamos la Sala Forum, con una capacidad para 200 personas. Asimismo, contamos con salones más pequeños, totalmente preparados para cada evento.</p>
+
+<h3>Superficie</h3>
+    <div class="meeting-rooms_box no-ie hidden-phone table-one">
+      <div class="meeting-rooms_table">
+        <ul class="table-info name-list">
+          <li class="kind">Salón</li>
+          <li>Superficie</li>
+          <li>Altura</li>
+          <li>Teatro</li>
+          <li>Aula</li>
+          <li>Banquete</li>
+          <li>Cocktail</li>
+          <li>Mesa U</li>
+        </ul>
+        <ul class="table-info">
+          <li class="kind">Foyer</li>
+          <li>175 m<sup>2</sup></li>
+          <li>3,15 m</li>
+          <li>-</li>
+          <li>-</li>
+          <li>-</li>
+          <li>150</li>
+          <li>-</li>
+        </ul>
+        <ul class="table-info">
+          <li class="kind">Fórum</li>
+          <li>340 m<sup>2</sup></li>
+          <li>3,75 m</li>
+          <li>420</li>
+          <li>225</li>
+          <li>250</li>
+          <li>420</li>
+          <li>100</li>
+        </ul>
+        <ul class="table-info">
+          <li class="kind">Fórum I</li>
+          <li>170 m<sup>2</sup></li>
+          <li>3,75 m</li>
+          <li>180</li>
+          <li>100</li>
+          <li>100</li>
+          <li>180</li>
+          <li>40</li>
+        </ul>
+        <ul class="table-info">
+          <li class="kind">Fórum II</li>
+          <li>170 m<sup>2</sup></li>
+          <li>3,75 m</li>
+          <li>180</li>
+          <li>100</li>
+          <li>100</li>
+          <li>180</li>
+          <li>40</li>
+        </ul>
+        <ul class="table-info">
+          <li class="kind">Fórum III</li>
+          <li>250 m<sup>2</sup></li>
+          <li>3,75 m</li>
+          <li>300</li>
+          <li>150</li>
+          <li>210</li>
+          <li>300</li>
+          <li>75</li>
+        </ul>
+        <ul class="table-info">
+          <li class="kind">Fórum IV</li>
+          <li>72 m<sup>2</sup></li>
+          <li>3,75 m</li>
+          <li>72</li>
+          <li>30</li>
+          <li>40</li>
+          <li>50</li>
+          <li>30</li>
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+  </div>
+</div>

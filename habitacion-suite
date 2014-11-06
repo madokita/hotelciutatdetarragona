@@ -1,0 +1,38 @@
+<div class="inner-menu">
+<ul class="container">
+<li class="parent-section"><a title="Номера" href="/ru/habitaciones/">Номера</a></li>
+<li><a title="Стандартный" href="/ru/habitaciones/habitacion-standard/">Стандартный</a></li>
+<li><a title="Трехместный" href="/ru/habitaciones/habitacion-triple/">Трехместный</a></li>
+<li><a title="Четырехместный" href="/ru/habitaciones/habitacion-cuadruple/">Четырехместный</a></li>
+<li><a title="Семейный номер" href="/ru/habitaciones/family-room/">Семейный номер</a></li>
+<li class="active"><a title="Сьют" href="/ru/habitaciones/suite/">Сьют</a></li>
+<li><a title="Джакузи сьют" href="/ru/habitaciones/jacuzzi-suite/">Джакузи сьют</a></li>
+</ul>
+</div>
+
+
+<div class="inner-content">
+<div class="span3 no-ie hidden-phone">
+[singlepic id="46"]
+</div>
+<div class="span9 right-div">
+<h2>Все необходимое для комфорта и роскоши</h2>
+<p>Идеально для тех, кто ищет пребывание с роскошью и особым качеством сервиса, также простор номера удобен для поездки с детьми.</p>
+<p>Просторный номер с тщательно продуманным оформлением и безукоризненной атмосферой. Большие окна позволят воспользоваться естественным освещением во всех уголках номера.</p>
+<p>Кроме двух отдельных помещений, приемная располагает зоной для работы.</p>
+
+<h3>Эксклюзивные услуги для этого типа номеров:</h3>
+<ul class="content-list">
+<li>Отдельная прихожая</li>
+<li>Банные принадлежности</li>
+</ul>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+<div class="inner-gallery">
+<div class="container">
+[nggallery id=18]
+</div>
+</div>

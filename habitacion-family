@@ -1,0 +1,37 @@
+<div class="inner-menu">
+<ul class="container">
+<li class="parent-section"><a title="Habitaciones" href="/habitaciones/">Habitaciones</a></li>
+<li><a title="Habitación Standard" href="/habitaciones/habitacion-standard/">Habitación Standard</a></li>
+<li><a title="Habitación Triple" href="/habitaciones/habitacion-triple/">Habitación Triple</a></li>
+<li><a title="Habitación Cuádruple" href="/habitaciones/habitacion-cuadruple/">Habitación Cuádruple</a></li>
+<li class="active"><a title="Family Room" href="/habitaciones/family-room/">Family Room</a></li>
+<li><a title="Suite" href="/habitaciones/suite/">Suite</a></li>
+<li><a title="Jacuzzi Suite" href="/habitaciones/jacuzzi-suite/">Jacuzzi Suite</a></li>
+</ul>
+</div>
+
+
+<div class="inner-content">
+<div class="span3 no-ie hidden-phone">
+[singlepic id="23"]
+</div>
+<div class="span9 right-div">
+<h2>Comodidad y relax para toda la familia</h2>
+<p>El Hotel Ciutat de Tarragona ha creado un espacio pensado para las familias y su bienestar.</p>
+<p>Amplias habitaciones, modernas y confortables, perfectamente adaptadas para familias con niños de todas las edades. Espacios diferenciados, con una sala de estar que se convertirá en una confortable zona de noche que cuenta con dos literas plegables para maximizar el espacio y la comodidad, además de un sofá-cama doble. Además, cuenta con una habitación con una cama de matrimonio totalmente independiente.</p>
+
+<h3>Servicios exclusivos de este tipo de habitación:</h3>
+<ul class="content-list">
+<li>Salón independiente</li>
+<li>Complementos de baño exclusivos</li>
+</ul>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+<div class="inner-gallery">
+<div class="container">
+[nggallery id=14]
+</div>
+</div>

@@ -1,0 +1,4 @@
+<a class="legal-privacy" href="#legal-page-wrapper" data-toggle="popover" data-toggle-title="<!--:es-->Términos y condiciones<!--:--><!--:en-->Terms & conditions<!--:--><!--:fr-->Termes et conditions<!--:--><!--:ca-->Términos i condicions<!--:--><!--:it-->Termini e condizioni<!--:--><!--:ru-->Сроки и условия<!--:-->" data-toggle-placement="top" data-toggle-trigger="click"><!--:es-->Términos y condiciones<!--:--><!--:en-->Terms & conditions<!--:--><!--:fr-->Termes et conditions<!--:--><!--:ca-->Términos i condicions<!--:--><!--:it-->Termini e condizioni<!--:--><!--:ru-->Сроки и условия<!--:--></a>
+<div id="legal-page-wrapper" class="popover">
+	<div id="modal-legal-content-wrapper" data-ajax-load-context=".legal-page" data-ajax-load-url="[get_page page='5299']"></div>
+</div>
